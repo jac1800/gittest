@@ -2,7 +2,7 @@ Git test file
 Git test file test commit
 Git test file commit test 3th
 Git test file commit test 4th
-test 1
-test 2
-test 3
-test 4
+test 1 bug fixed
+test 2 bug fixed
+test 3 bug fixed
+test 4 bug fixed
